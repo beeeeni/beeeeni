@@ -1,3 +1,5 @@
+<div align=center> 
+
 <!--
 이모지는 https://gist.github.com/rxaviers/7360908
 
@@ -7,6 +9,7 @@ https://simpleicons.org/
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&text=☃️%20Hi,%20I'm%20Hyeonbeen%20Park%20💙%20&height=300&fontSize=50)
+  </div>
 
 :mortar_board: Student of Sangmyung Univ.<br/>
 <!--
@@ -32,12 +35,13 @@ https://simpleicons.org/
   Not yet
   <br/> <br/> 
 </div>
-<!--
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=unhipark&show_icons=true&theme=vue) 
--->
+<div align=center> 
 
-<!--
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=unhipark)](https://solved.ac/unhipark)
--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beeeeni&show_icons=true&theme=default) 
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusqls2)](https://solved.ac/gusqls2)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&height=200&section=footer)
+  </div>
