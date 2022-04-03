@@ -11,16 +11,6 @@ https://simpleicons.org/
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&text=☃️%20Hi,%20I'm%20Hyeonbeen%20Park%20💙%20&height=300&fontSize=50)
   </div>
 
-:mortar_board: Student of Sangmyung Univ.<br/>
-
-🎨 love blue 💙❄️
-
-
-# <div align=center> :raising_hand_woman: My Portfolio :raising_hand_woman: </div>
-
-<div align=center> https://delirious-voyage-074.notion.site/Arongsnuna-a110a123bf8e41a2b674ae1a46e06044 </div>
-<br/>
-
 # <div align=center> 🛠️ Tech Stack 🛠️
   <div align=center> Techs that I've used at least once </div>  
   <br/>
