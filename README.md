@@ -36,7 +36,7 @@ https://simpleicons.org/
 
 </div>
 
+<div align=center>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&height=200&section=footer)
-
-  </div>
+</div>
  
