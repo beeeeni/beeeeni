@@ -31,8 +31,8 @@ https://simpleicons.org/
 
   <div align=center>
  
-![BaeEunGi's github stats](https://github-readme-stats.vercel.app/api?username=BaeEunGi&show_icons=true)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=withjust7)](https://solved.ac/withjust7)
+![beeeeni's github stats](https://github-readme-stats.vercel.app/api?username=beeeeni&show_icons=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusqls2)](https://solved.ac/gusqls2)
 
 </div>
 
