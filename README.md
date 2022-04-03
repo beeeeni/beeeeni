@@ -8,7 +8,7 @@
 https://simpleicons.org/
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&text=☃️%20Hi,%20I'm%20Hyeonbeen%20Park%20💙%20&height=300&fontSize=50&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&text=☃️%20Hi,%20I'm%20Hyeonbeen%20Park%20💙%20&height=300&fontSize=50&animation=twinkling)
   </div>
 
 # <div align=center> 🛠️ Tech Stack 🛠️
