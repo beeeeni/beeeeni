@@ -38,4 +38,3 @@ https://simpleicons.org/
 
 <div align=center>
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&height=200&section=footer)
-</div>
