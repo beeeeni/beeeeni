@@ -26,8 +26,8 @@ https://simpleicons.org/
 # <div align=center> 🏆 Awards 🏆 </div>
 <div align=center>
   교내 상생플러스 장려상
-  <br> <br> <br>
 </div>
+<br> <br> <br>
 
 <div align=center> 
 
