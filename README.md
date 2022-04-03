@@ -30,9 +30,10 @@ https://simpleicons.org/
 <br> <br> <br>
 
 <div align=center>
- 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusqls2)](https://solved.ac/gusqls2)
-![beeeeni's github stats](https://github-readme-stats.vercel.app/api?username=beeeeni&show_icons=true)
 
+![beeeeni's github stats](https://github-readme-stats.vercel.app/api?username=beeeeni&show_icons=true)
+<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusqls2)](https://solved.ac/gusqls2)
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&height=200&section=footer)
 </div>
