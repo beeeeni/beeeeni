@@ -35,9 +35,10 @@ https://simpleicons.org/
   Not yet
   <br/> <br/> 
 </div>
+<--
 <div align=center> 
 
-  <--
+ 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beeeeni&show_icons=true&theme=default) 
 
 
@@ -46,4 +47,4 @@ https://simpleicons.org/
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=C7D3ED&height=200&section=footer)
   </div>
--->
+ -->
