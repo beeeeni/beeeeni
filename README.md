@@ -32,7 +32,7 @@ https://simpleicons.org/
 
 # <div align=center> 🏆 Awards 🏆 </div>
 <div align=center>
-  Not yet
+  [교내 상생플러스 장려상](https://github.com/beeeeni/SMU_BOT/blob/branch/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%9E%A5%EB%A0%A4%EC%83%81.pdf)
   <br/> <br/> 
 </div>
 
