@@ -31,6 +31,7 @@ https://simpleicons.org/
   The Vice President of Inyro [2022]<br>
 </div>
 <br>
+
 # <div align=center> 🏆 Awards 🏆 </div>
 <div align=center>
   <a href="https://github.com/beeeeni/SMU_BOT/blob/branch/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%9E%A5%EB%A0%A4%EC%83%81.pdf">교내 스터디상생플러스 장려상</a>
