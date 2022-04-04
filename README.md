@@ -22,6 +22,14 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp  </div>
 <br>
 
+# <div align=center> ✨ Activities ✨ </div>
+<div align=center>
+  CJ UNIT 5th [2021.08-2021.12]
+  The Student Council at Sangmyung Univ. Computer Science [2020-Now]
+  The President of the Student Council [2022]
+  General Affairs of School Central Club - 'Inyro' (Programming Club) [2021-Now]
+  The Vice President of Inyro [2022]
+</div>
 
 # <div align=center> 🏆 Awards 🏆 </div>
 <div align=center>
