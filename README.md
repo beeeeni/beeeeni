@@ -22,6 +22,7 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp  </div>
 <br>
 
+<!--
 # <div align=center> ✨ Activities ✨ </div>
 <div align=center>
   CJ UNIT 5th [2021.08-2021.12]<br>
@@ -31,6 +32,7 @@ https://simpleicons.org/
   The Vice President of Inyro [2022]<br>
 </div>
 <br>
+-->
 
 # <div align=center> 🏆 Awards 🏆 </div>
 <div align=center>
