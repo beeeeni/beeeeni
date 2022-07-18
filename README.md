@@ -39,13 +39,13 @@ https://simpleicons.org/
 </div>
 <br>
 -->
-
+<!--
 # <div align=center> 🏆 Awards 🏆 </div>
 <div align=center>
   <a href="https://github.com/beeeeni/SMU_BOT/blob/branch/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%9E%A5%EB%A0%A4%EC%83%81.pdf">교내 스터디상생플러스 장려상</a>
 </div>
 <br> <br> <br>
-
+-->
 <div align=center>
 <a href="https://github.com/beeeeni"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=beeeeni&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="beeeeni's github stats" /></a>
 <!--![beeeeni's github stats](https://github-readme-stats.vercel.app/api?username=beeeeni&show_icons=true)-->
